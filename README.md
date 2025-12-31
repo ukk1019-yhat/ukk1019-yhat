@@ -58,7 +58,7 @@ I’m a **problem-first thinker** who believes technology should *solve real hum
 
 ## 📌 Philosophy
 
-> *“Innovation is not about ideas — it’s about execution that scales impact.”*
+> *“Innovation is not about ideas - it’s about execution that scales impact.”*
 
 I focus on:
 - Long-term vision  
