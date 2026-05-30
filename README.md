@@ -1,7 +1,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Uma+Krishna+Kanth&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=B2B+AI+SaaS+Founder+%7C+Frontend+Developer+%7C+National+Athlete&descAlignY=62&descSize=16" width="100%"/>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=750&lines=Hey%2C+I'm+Uma+Krishna+Kanth+%F0%9F%91%8B;AI+SaaS+Founder+%7C+Frontend+Dev;Building+at+Expresso+AI+%F0%9F%9A%80;Gold+Medalist+%7C+National+Softball+Champion+%F0%9F%8F%85" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=750&lines=Hey%2C+I'm+Uma+Krishna+Kanth+%F0%9F%91%8B;AI+SaaS+Founder+%7C+Frontend+Dev;Building+Expresso+AI+%F0%9F%9A%80;Gold+Medalist+%7C+National+Softball+Champion+%F0%9F%8F%85" alt="Typing SVG" />
 </div>
 
 <br/>
