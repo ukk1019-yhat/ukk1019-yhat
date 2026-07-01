@@ -25,7 +25,7 @@
 
 ```yaml
 uma_krishna_kanth:
-  role: "Founder & CEO, EduAltTech"
+  role: "Founder, EduAltTech"
   also: "AI Developer @ BeyonAI (fka Expresso AI)"
   studying: "B.Tech CSE @ JNTU Kakinada · 2027"
   based_in: "Kakinada, Andhra Pradesh, India 🇮🇳"
@@ -117,7 +117,7 @@ timeline
 </details>
 
 <details>
-<summary><b>🎓 EduAltTech — Founder & CEO</b> <sub>(2023 – Present) · Kakinada, India</sub></summary>
+<summary><b>🎓 EduAltTech — Founder</b> <sub>(2023 – Present) · Kakinada, India</sub></summary>
 <br/>
 
 `HTML` `CSS` `JavaScript` `Figma` `Product Strategy`
