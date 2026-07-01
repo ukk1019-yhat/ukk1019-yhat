@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:1E2327,100:0D1117&customColorList=6,11,20&height=220&section=header&text=Uma%20Krishna%20Kanth&fontSize=48&fontColor=70A5FD&animation=twinkling&fontAlignY=35&desc=Founder%20%40%20EduAltTech%20%C2%B7%20AI%20%26%20Frontend%20Developer%20%C2%B7%202%C3%97%20National%20Softball%20Champ&descAlignY=55&descSize=18&descColor=C9D1D9"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:1E2327,100:0D1117&customColorList=6,11,20&height=220&section=header&text=Uma%20Krishna%20Kanth&fontSize=48&fontColor=70A5FD&animation=twinkling&fontAlignY=35&desc=Founder%20%40%20EduAltTech%20%C2%B7%20AI%20%2B%20Frontend%20Developer%20%C2%B7%202%C3%97%20National%20Softball%20Champ&descAlignY=55&descSize=18&descColor=C9D1D9"/>
 
 <a href="https://github.com/ukk1019-yhat">
   <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=26&duration=2600&pause=900&color=70A5FD&center=true&vCenter=true&width=800&lines=Building+EduAltTech+%F0%9F%9A%80;Shipping+AI-Native+Products+%E2%9A%A1;Turning+Ideas+Into+Interfaces+%F0%9F%8E%A8;2x+National+Gold+Medalist+%F0%9F%A5%87+Softball;Currently%3A+Automating+Everything+%F0%9F%A4%96" alt="Typing SVG" />
@@ -25,7 +25,7 @@
 
 ```yaml
 uma_krishna_kanth:
-  role: "Founder , EduAltTech"
+  role: "Founder & CEO, EduAltTech"
   also: "AI Developer @ BeyonAI (fka Expresso AI)"
   studying: "B.Tech CSE @ JNTU Kakinada · 2027"
   based_in: "Kakinada, Andhra Pradesh, India 🇮🇳"
